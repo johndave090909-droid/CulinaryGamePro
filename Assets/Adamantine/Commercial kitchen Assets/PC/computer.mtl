@@ -1,0 +1,13 @@
+# Blender MTL File: 'computer.blend'
+# Material Count: 1
+
+newmtl Computer
+Ns 349.173522
+Ka 0.826446 0.826446 0.826446
+Kd 0.800000 0.800000 0.800000
+Ks 0.508264 0.508264 0.508264
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\2D and 3D assets\\3D MODELS\\MY MODELS FOLDER\\Deskcomputer\\texture\\Computer_texture.png

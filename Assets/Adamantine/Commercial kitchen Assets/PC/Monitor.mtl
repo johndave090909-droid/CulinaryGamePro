@@ -1,0 +1,25 @@
+# Blender MTL File: 'Monitor.blend'
+# Material Count: 2
+
+newmtl Monitor
+Ns 218.034954
+Ka 0.404959 0.404959 0.404959
+Kd 0.800000 0.800000 0.800000
+Ks 0.061983 0.061983 0.061983
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\2D and 3D assets\\3D MODELS\\MY MODELS FOLDER\\Deskcomputer\\texture\\Monitor_texture.png
+
+newmtl Screen
+Ns 738.747355
+Ka 0.380165 0.380165 0.380165
+Kd 0.800000 0.800000 0.800000
+Ks 0.136364 0.136364 0.136364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\2D and 3D assets\\3D MODELS\\MY MODELS FOLDER\\Deskcomputer\\texture\\Screen.jpg
+map_Ke D:\\2D and 3D assets\\3D MODELS\\MY MODELS FOLDER\\Deskcomputer\\texture\\Screen.jpg
